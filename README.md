@@ -19,7 +19,6 @@ model_experiment
 საბოლოო მოდელად ავარჩიე ბოლო მოდელი, XGBoost. roc ქულა ჰქონდა 0.91 და ვალიდაციის სქორის ახლოს იყო და ოდნავ ცამორჩებოდა ტრეინის სქორს.
 
 MLFLOW ს ექსპერიმენტების ბმული:
-https://dagshub.com/slomi23/slomi23_ML_Assignment_1.mlflow/#/experiments
-
+(https://dagshub.com/slomi23/slomi23ML2.mlflow/#/experiments)
 მეტრიკებად ვიყენებდი roc სქორს. ასვეე გამომქონდა ვალიდაციის და ტრეინინგის accuracyები.  
 საბოლოოდ model_inference.ipynb ს უნდა დაეგენერირებინა submissions.csv მაგრამ ვერ მოვასწარი
